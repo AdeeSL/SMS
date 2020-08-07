@@ -1,0 +1,9 @@
+user name : admin
+password : admin
+
+>> Change Database directory from E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem.mdf
+   To your Own In All Modules!!
+
+*** WITHOUT CHANGING DATABASE DIRECTORY, THE SYSTEM WON'T RUN ***
+
+Database File is inside : \SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem.mdf
